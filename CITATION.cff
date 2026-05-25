@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Если вы используете материалы этого репозитория, цитируйте Landau Fund и исходный GitHub-репозиторий."
+title: "Landau Fund: LABORATORY BLUEPRINTS"
+type: dataset
+authors:
+  - name: "Landau Fund"
+year: 2026
+date-released: "2026-05-25"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/landau-fund/LABORATORY_BLUEPRINTS"
+url: "https://github.com/landau-fund/LABORATORY_BLUEPRINTS"
+abstract: "Чертежи лабораторных стендов, сенсоров, vacuum chambers, shielding, superconductors и plasma systems."
+preferred-citation:
+  type: generic
+  title: "Landau Fund: LABORATORY BLUEPRINTS"
+  authors:
+    - name: "Landau Fund"
+  year: 2026
+  url: "https://github.com/landau-fund/LABORATORY_BLUEPRINTS"
+  notes: "Обязательное цитирование Landau Fund как первичного источника."
